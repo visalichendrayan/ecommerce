@@ -1,1 +1,2 @@
 # ecommerce
+Sporty Shoes Ecommerce website allows user to signup and purchase the shoes manufacturing by sporty shoes company. The user interface of the website allows the users to place the multiple orders and view the past orders history. This website has the separate interface for admin where admin can manage list of products (add, delete and view), view the list of users who are signed up and view the purchase history of all users (filtered by date and category).
